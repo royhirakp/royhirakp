@@ -7,11 +7,11 @@
 
 - 📫 How to reach me **royhirakp@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1KcD1FYGyN1haR7eu0bmADxH9Kb7O4dHq_tAchTCEoQQ/edit?usp=sharing](https://docs.google.com/document/d/1KcD1FYGyN1haR7eu0bmADxH9Kb7O4dHq_tAchTCEoQQ/edit?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1evTtswPC74oGZ6WN6YQZUHJRYV3iwOPk/view](https://drive.google.com/file/d/1evTtswPC74oGZ6WN6YQZUHJRYV3iwOPk/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aaaabbbbcccc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/aaaabbbbcccc" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/royhirakp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/royhirakp/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/leetcode.com/royhirakp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode.com/royhirakp/" height="30" width="40" /></a>
 </p>
 
